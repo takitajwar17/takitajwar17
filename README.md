@@ -1,13 +1,13 @@
 [![MasterHead](https://belindapieterse.com/wp-content/uploads/elementor/thumbs/Head-pk3ulyl4f1ybrioczwxxj9jnpw99qm6ksuwi681jew.jpg)
 
+
+
 <h1 align="center">Hi 👋, I'm Taki Tajwaruzzaman Khan</h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=0e75b6&style=flat" alt="takitajwar17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takitajwar17" alt="takitajwar17" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
 
