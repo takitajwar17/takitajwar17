@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Taki Tajwaruzzaman Khan</h1>
+<h1 align="center">Henlo 👋, I'm Taki Tajwaruzzaman Khan</h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 <br>
 
