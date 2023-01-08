@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&locale=en&layout=compact" alt="takitajwar17" width="600" height="150" /></p>
 
-<p>&nbsp;<img align=left" src="https://github-readme-stats.vercel.app/api?username=takitajwar17&show_icons=true&locale=en" alt="takitajwar17" width="600" height="150" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takitajwar17&show_icons=true&locale=en" alt="takitajwar17" width="600" height="150" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&" alt="takitajwar17" width="600" height="150" /></p>
