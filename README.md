@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taki Tajwaruzzaman Khan</h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=0e75b6&style=flat" alt="takitajwar17" /> </p>
 
