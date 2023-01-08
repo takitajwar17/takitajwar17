@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Taki Tajwaruzzaman Khan</h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
+<br>
 
-<img align="right" alt="Coding" width="500"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="500"  src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=0e75b6&style=flat" alt="takitajwar17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
