@@ -13,7 +13,7 @@
 
 - 🔭 I’m interested in **Web Development and Machine Learning**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
