@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-- 👨‍💻 All of my projects are available at: <br> [https://takitajwar17.github.io/my-portfolio/](https://takitajwar17.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available <br> [HERE](https://github.com/takitajwar17?tab=repositories)
 
 - 📝 My Blog: [https://takitajwar17.hashnode.dev/](https://takitajwar17.hashnode.dev/)
 
