@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
 
-- 🔭 I’m interested in **Web Development and Machine Learning**
+- 🔭 I’m interested in **Cloud and DevOps**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-- 👨‍💻 All of my projects are available <br> [HERE](https://github.com/takitajwar17?tab=repositories)
+- 👨‍💻 All of my projects are available [HERE](https://github.com/takitajwar17?tab=repositories)
 
 - 📝 My Blog: [https://takitajwar17.hashnode.dev/](https://takitajwar17.hashnode.dev/)
 
