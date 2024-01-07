@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![MasterHead](https://belindapieterse.com/wp-content/uploads/elementor/thumbs/Head-pk3ulyl4f1ybrioczwxxj9jnpw99qm6ksuwi681jew.jpg)
 
 
@@ -40,14 +27,16 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://dev.to/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://twitter.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takitajwar17" height="30" width="40" /></a>
+<h3 align="left">Socials:</h3>
 <a href="https://linkedin.com/in/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takitajwar17" height="30" width="40" /></a>
+<a href="https://twitter.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takitajwar17" height="30" width="40" /></a>
 <a href="https://instagram.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takitajwar17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a>
+<a href="https://dev.to/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="takitajwar17" height="30" width="40" /></a>
 <a href="https://hashnode.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@takitajwar17" height="30" width="40" /></a>
 <a href="https://medium.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@takitajwar17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takitajwar17" height="30" width="40" /></a>
+</p>
 
 <br><br>
 
