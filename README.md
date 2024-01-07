@@ -116,7 +116,8 @@
 
 
 <h2 align="left">GitHub Status</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&" alt="takitajwar17" /></p>
+<a href="https://github.com/takitajwar17">
+<img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
