@@ -2,8 +2,7 @@
 
 
 
-<h1 align="center">Henlo <img
-            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Taki Tajwaruzzaman Khan </h1>
+<h1 align="center">Henlo <imgm src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Taki Tajwaruzzaman Khan </h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 <br>
 
@@ -120,7 +119,9 @@
 
 <h2 align="left">GitHub Status</h2>
 <a href="https://github.com/takitajwar17">
-<img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to takitajwar17's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+
 
 
 
