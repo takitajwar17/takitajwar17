@@ -2,7 +2,8 @@
 
 
 
-<h1 align="center">Henlo👋, I'm Taki Tajwaruzzaman Khan</h1>
+<h1 align="center">Henlo <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Taki Tajwaruzzaman Khan </h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 <br>
 
