@@ -115,7 +115,7 @@
 
 <h2 align="center">Activities & Contributions</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=dark" alt="takitajwar17" width="44%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=dark" alt="takitajwar17" width="45%" />
 </p>
 <p>
   <a href="https://github.com/takitajwar17">
