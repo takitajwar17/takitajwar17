@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
 
-- 🔭 I’m interested in **Cloud and DevOps**
+- 🔭 I’m interested in **Fullstack Development & Cloud Technologies**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -20,9 +20,12 @@
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/takitajwar17?tab=repositories)
 
-- 📝 My Blog: [https://takitajwar17.hashnode.dev/](https://takitajwar17.hashnode.dev/)
-
 - 📫 Reach me at **tajwaruzzaman@iut-dhaka.edu**
+
+- 📝 My Blogs: 
+<a href="https://dev.to/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="takitajwar17" height="30" width="40" /></a>
+<a href="https://hashnode.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@takitajwar17" height="30" width="40" /></a>
+<a href="https://medium.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@takitajwar17" height="30" width="40" /></a>
 
 <br><br>
 
@@ -31,11 +34,7 @@
 <a href="https://linkedin.com/in/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takitajwar17" height="30" width="40" /></a>
 <a href="https://twitter.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takitajwar17" height="30" width="40" /></a>
 <a href="https://instagram.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a>
-<a href="https://dev.to/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://hashnode.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@takitajwar17" height="30" width="40" /></a>
-<a href="https://medium.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@takitajwar17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takitajwar17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a> <a href="https://www.leetcode.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takitajwar17" height="30" width="40" /></a>
 </p>
 
 <br><br>
