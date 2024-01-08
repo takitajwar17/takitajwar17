@@ -112,15 +112,23 @@
     </td>
   </tr>
 </table>
+<br></br>
+
+<h2 align="center">Activities & Contributions</h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=dark" alt="takitajwar17" width="44%" />
+</p>
+<p>
+  <a href="https://github.com/takitajwar17">
+    <img width="53%" title="Redirect's to takitajwar17's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000" />
+  </a>
+</p>
+
+</p>
 
 
-<br><br>
 
 
-
-<h2 align="left">GitHub Status</h2>
-<a href="https://github.com/takitajwar17">
-<img width="49%" title="Redirect's to takitajwar17's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
