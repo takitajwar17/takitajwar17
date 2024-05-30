@@ -13,7 +13,7 @@
 
 - 🔭 I’m interested in **Fullstack Development & Cloud Technologies**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
