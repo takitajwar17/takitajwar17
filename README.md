@@ -1,7 +1,3 @@
-![MasterHead](https://belindapieterse.com/wp-content/uploads/elementor/thumbs/Head-pk3ulyl4f1ybrioczwxxj9jnpw99qm6ksuwi681jew.jpg)
-
-
-
 <h1 align="center">Henlo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
   , I'm Taki Tajwaruzzaman Khan </h1>
 <h3 align="center">A Software Engineer from Bangladesh</h3>
