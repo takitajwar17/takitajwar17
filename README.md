@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=454545&style=flat" alt="takitajwar17" /> </p>
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
 
-- 👨‍💻 I am participating in **Hacktoberfest 2024** currently.
-
 - 🔭 I’m interested in **Fullstack Development & Cloud Technologies**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
