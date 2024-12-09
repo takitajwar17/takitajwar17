@@ -25,10 +25,9 @@
 
 ### 🎯 Current Focus
 
-- Building scalable cloud-native applications
 - Exploring AI/ML integration in web applications
 - Contributing to open-source projects
-- Sharing knowledge through technical writing
+- Participating in hackathons and technical events
 
 </div>
 
@@ -46,7 +45,7 @@
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
         <br />
-        <sup>Led my team to create market-ready solution</sup>
+        <sup>Competed among 75 teams</sup>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
