@@ -15,7 +15,7 @@
 <div style="position: relative;">
   <img align="right" alt="Coding" width="400" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
@@ -23,7 +23,7 @@
 - 👯 Open to collaborate on **Development Projects**
 - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
 - Building scalable cloud-native applications
 - Exploring AI/ML integration in web applications
