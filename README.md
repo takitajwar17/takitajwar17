@@ -1,129 +1,125 @@
-<h1 align="center">Henlo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-  , I'm Taki Tajwaruzzaman Khan </h1>
-<h3 align="center">A Product Engineer from Bangladesh</h3>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Taki Tajwaruzzaman Khan
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Product+Engineer;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/takitajwar17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/takitajwar17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://medium.com/@takitajwar17"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:tajwaruzzaman@iut-dhaka.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+
+## 🚀 About Me
+
+- 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
+- 🔭 Passionate about **Full Stack Development & Cloud Technologies**
+- 🌱 Currently exploring **Machine Learning and AI**
+- 👯 Open to collaborate on **Development Projects**
+- 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+
+## 🎯 Current Focus
+
+- Building scalable cloud-native applications
+- Exploring AI/ML integration in web applications
+- Contributing to open-source projects
+- Sharing knowledge through technical writing
+
+## 🏆 Recent Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Champion</strong>
+        <br />
+        <a href="#">Dhaka Divisional Hackathon</a>
+        <br />
+        <sub>Technocrats V.2 (Dec. 2024)</sub>
+        <br />
+        <sup>Led team to create market-ready solution</sup>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
+        <br />
+        <strong>1st Runner-Up</strong>
+        <br />
+        <a href="#">Programming Hero National Hackathon</a>
+        <br />
+        <sub>EWU RoboFest (Nov. 2024)</sub>
+        <br />
+        <sup>Competed among 178 teams</sup>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+## 🛠️ Tech Stack
+
+<details>
+<summary>Programming Languages</summary>
 <br>
 
-<img align="right" alt="Coding" width="500"  src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=454545&style=flat" alt="takitajwar17" /> </p>
-<p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+</details>
 
-- 🏢 Currently working as **Product Engineer** at [**Booked For You**](https://bookedforyou.com)
+<details>
+<summary>Frontend Development</summary>
+<br>
 
-- 🔭 I’m interested in **Fullstack Development & Cloud Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</details>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+<details>
+<summary>Backend & Cloud</summary>
+<br>
 
-- 👯 I’m looking to collaborate on **Development Projects**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+</details>
 
-- 👨‍💻 All of my projects are available [HERE](https://github.com/takitajwar17?tab=repositories)
+<details>
+<summary>Database & Tools</summary>
+<br>
 
-- 📫 Reach me at **tajwaruzzaman@iut-dhaka.edu**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
 
-- 📝 My Blogs: 
-<a href="https://dev.to/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://hashnode.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@takitajwar17" height="30" width="40" /></a>
-<a href="https://medium.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@takitajwar17" height="30" width="40" /></a>
+## 📊 GitHub Stats
 
-<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitajwar17&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak" height="150">
+</div>
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://twitter.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://instagram.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takitajwar17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a> <a href="https://www.leetcode.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takitajwar17" height="30" width="40" /></a>
-</p>
 
-<br><br>
+[![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2 align="left">🏆 Achievements</h2>
+---
 
-- 🥇 **Champion** at Dhaka Divisional Hackathon - Technocrats V.2 (Dec. 2024)
-  - Led my team to victory with a market-ready solution showcasing significant business potential and scalability
-- 🥈 **1st Runner-Up** at Programming Hero National Hackathon, EWU RoboFest (Nov. 2024)
-  - Secured second position among 178 teams with an architecturally sophisticated solution
-
-<br><br>
-
-<h2 align="left">Languages and Tools</h2>
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <h4 align="left">Programming Languages:</h4>
-      <p align="left">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-      </p>
-    </td>
-    
-  <td align="center" valign="middle">
-      <h4 align="left">Database:</h4>
-      <p align="left">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle">
-      <h4 align="left">Frontend Development:</h4>
-      <p align="left">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-      </p>
-    </td>
-    
-   <td align="center" valign="middle">
- <h4 align="left">Cloud and DevOps:</h4>
-      <p align="left">
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
-      </p>
-     
-</td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle">
-      <h4 align="left">Backend Development:</h4>
-      <p align="left">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-        <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> </a>
-      </p>
-    </td>
-
-  <td align="center" valign="middle">
-      <h4 align="left">Other Technologies:</h4>
-      <p align="left">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br></br>
-
-<h2 align="center">Activities & Contributions</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=dark" alt="takitajwar17" width="44%">
-</p>
-<p>
-  <a href="https://github.com/takitajwar17">
-    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000">
-  </a>
-</p>
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br>
+  <a href="https://github.com/takitajwar17?tab=repositories">Check out my repositories</a>
+</div>
