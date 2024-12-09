@@ -12,22 +12,26 @@
   <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img align="right" alt="Coding" width="400" style="position: relative; z-index: 2;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-## 🚀 About Me
+    ## 🚀 About Me
 
-- 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
-- 🔭 Passionate about **Full Stack Development & Cloud Technologies**
-- 🌱 Currently exploring **Machine Learning and AI**
-- 👯 Open to collaborate on **Development Projects**
-- 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+    - 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
+    - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
+    - 🌱 Currently exploring **Machine Learning and AI**
+    - 👯 Open to collaborate on **Development Projects**
+    - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
-## 🎯 Current Focus
+    ## 🎯 Current Focus
 
-- Building scalable cloud-native applications
-- Exploring AI/ML integration in web applications
-- Contributing to open-source projects
-- Sharing knowledge through technical writing
+    - Building scalable cloud-native applications
+    - Exploring AI/ML integration in web applications
+    - Contributing to open-source projects
+    - Sharing knowledge through technical writing
+  </div>
+</div>
 
 ## 🏆 Recent Achievements
 
@@ -108,8 +112,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitajwar17&layout=compact&theme=tokyonight" alt="Top Languages" height="150" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak" height="150" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitajwar17&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 [![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
