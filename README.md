@@ -1,7 +1,7 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Taki Tajwaruzzaman Khan
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Taki Tajwaruzzaman Khan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Product+Engineer;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Product+Engineer;Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,18 +39,18 @@
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="#">Dhaka Divisional Hackathon</a>
+        <a href="https://www.linkedin.com/posts/takitajwar17_yet-another-win-for-my-team-xtradrill-but-activity-7271506810140790785-wEbl?utm_source=share&utm_medium=member_desktop">Dhaka Divisional Hackathon</a>
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
         <br />
-        <sup>Led team to create market-ready solution</sup>
+        <sup>Led my team to create market-ready solution</sup>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
         <br />
         <strong>1st Runner-Up</strong>
         <br />
-        <a href="#">Programming Hero National Hackathon</a>
+        <a href="https://www.linkedin.com/posts/takitajwar17_the-last-two-days-have-been-nothing-short-activity-7261294019660439552-nxYA?utm_source=share&utm_medium=member_desktop">Programming Hero National Hackathon</a>
         <br />
         <sub>EWU RoboFest (Nov. 2024)</sub>
         <br />
@@ -60,11 +60,9 @@
   </table>
 </div>
 
-
-
 ## 🛠️ Tech Stack
 
-<details>
+<details open>
 <summary>Programming Languages</summary>
 <br>
 
@@ -76,7 +74,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Frontend Development</summary>
 <br>
 
@@ -86,7 +84,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Backend & Cloud</summary>
 <br>
 
@@ -96,10 +94,11 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Database & Tools</summary>
 <br>
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -112,7 +111,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitajwar17&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak" height="150">
 </div>
-
 
 [![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
