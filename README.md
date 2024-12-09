@@ -109,13 +109,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitajwar17&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak">
-</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=tokyonight" alt="takitajwar17" width="44%">
+<p align="center" width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&layout=compact&hide_progress=true&theme=tokyonight" alt="takitajwar17" width="44%">
 </p>
 <p>
   <a href="https://github.com/takitajwar17">
