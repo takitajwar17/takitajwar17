@@ -12,26 +12,22 @@
   <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img align="right" alt="Coding" width="400" style="position: relative; z-index: 2;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" style="position: relative; z-index: 2;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-    ## 🚀 About Me
+## 🚀 About Me
 
-    - 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
-    - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
-    - 🌱 Currently exploring **Machine Learning and AI**
-    - 👯 Open to collaborate on **Development Projects**
-    - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+- 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
+- 🔭 Passionate about **Full Stack Development & Cloud Technologies**
+- 🌱 Currently exploring **Machine Learning and AI**
+- 👯 Open to collaborate on **Development Projects**
+- 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
-    ## 🎯 Current Focus
+## 🎯 Current Focus
 
-    - Building scalable cloud-native applications
-    - Exploring AI/ML integration in web applications
-    - Contributing to open-source projects
-    - Sharing knowledge through technical writing
-  </div>
-</div>
+- Building scalable cloud-native applications
+- Exploring AI/ML integration in web applications
+- Contributing to open-source projects
+- Sharing knowledge through technical writing
 
 ## 🏆 Recent Achievements
 
