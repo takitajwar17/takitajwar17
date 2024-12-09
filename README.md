@@ -114,6 +114,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak">
 </div>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takitajwar17&show_icons=true&hide_progress=true&theme=tokyonight" alt="takitajwar17" width="44%">
+</p>
+<p>
+  <a href="https://github.com/takitajwar17">
+    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight&theme=black-ice&stroke=0000">
+  </a>
+</p>
+
 [![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
