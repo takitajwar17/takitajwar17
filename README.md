@@ -119,7 +119,7 @@
 </p>
 <p>
   <a href="https://github.com/takitajwar17">
-    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight&theme=black-ice&stroke=0000">
+    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight">
   </a>
 </p>
 
