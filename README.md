@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takitajwar17&label=Profile%20views&color=454545&style=flat" alt="takitajwar17" /> </p>
 <p align="left"> <a href="https://twitter.com/takitajwar17" target="blank"><img src="https://img.shields.io/twitter/follow/takitajwar17?logo=twitter&style=for-the-badge" alt="takitajwar17" /></a> </p>
 
+- 🏢 Currently working as **Product Engineer** at [**Booked For You**](https://bookedforyou.com)
+
 - 🔭 I’m interested in **Fullstack Development & Cloud Technologies**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
@@ -31,6 +33,15 @@
 <a href="https://instagram.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takitajwar17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@takitajwar17" height="30" width="40" /></a> <a href="https://www.leetcode.com/takitajwar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takitajwar17" height="30" width="40" /></a>
 </p>
+
+<br><br>
+
+<h2 align="left">🏆 Achievements</h2>
+
+- 🥇 **Champion** at Dhaka Divisional Hackathon - Technocrats V.2 (Dec. 2024)
+  - Led my team to victory with a market-ready solution showcasing significant business potential and scalability
+- 🥈 **1st Runner-Up** at Programming Hero National Hackathon, EWU RoboFest (Nov. 2024)
+  - Secured second position among 178 teams with an architecturally sophisticated solution
 
 <br><br>
 
@@ -74,7 +85,6 @@
     </td>
     
    <td align="center" valign="middle">
-
  <h4 align="left">Cloud and DevOps:</h4>
       <p align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
@@ -117,13 +127,3 @@
     <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=dark&theme=black-ice&stroke=0000">
   </a>
 </p>
-
-
-[![An image of @takitajwar17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/takitajwar17)](https://holopin.io/@takitajwar17)
-
-
-
-
-
-
-
