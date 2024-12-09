@@ -12,11 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+<div style="position: relative;">
+  <img align="right" alt="Coding" width="400" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-<div style="width: 50%;">
-
-## <u style="text-decoration: underline solid #6F9EE8 5px;">About Me</u>
+## 🚀 About Me
 
 - 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
@@ -24,7 +23,7 @@
 - 👯 Open to collaborate on **Development Projects**
 - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
-## <u style="text-decoration: underline solid #6F9EE8 5px;">Current Focus</u>
+## 🎯 Current Focus
 
 - Building scalable cloud-native applications
 - Exploring AI/ML integration in web applications
