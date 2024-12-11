@@ -36,6 +36,17 @@
 <div align="center">
   <table>
     <tr>
+        <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Champion</strong>
+        <br />
+        <a href="https://www.linkedin.com/posts/takitajwar17_what-a-month-it-has-been-we-team-xtradrill-activity-7272690375620804608-qwvb?utm_source=share&utm_medium=member_desktop">Data Hackathon</a>
+        <br />
+        <sub>4th Data Science Summit 2024</sub>
+        <br />
+        <sup>At Daffodil International University</sup>
+      </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
@@ -45,7 +56,7 @@
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
         <br />
-        <sup>Competed among 75 teams</sup>
+        <sup>Competed among 75 teams at IUBAT</sup>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
@@ -56,7 +67,7 @@
         <br />
         <sub>EWU RoboFest (Nov. 2024)</sub>
         <br />
-        <sup>Competed among 178 teams</sup>
+        <sup>Competed among 178 teams at EWU</sup>
       </td>
     </tr>
   </table>
