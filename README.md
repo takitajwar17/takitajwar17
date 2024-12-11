@@ -20,7 +20,7 @@
 - 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
 - 🌱 Currently exploring **Machine Learning and AI**
-- 👯 Open to collaborate on **Development Projects**
+- 👯 Open to collaborate on **SaaS Projects**
 - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
 ### 🎯 Current Focus
