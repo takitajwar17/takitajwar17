@@ -43,7 +43,7 @@
         <br />
         <a href="https://www.linkedin.com/posts/takitajwar17_what-a-month-it-has-been-we-team-xtradrill-activity-7272690375620804608-qwvb?utm_source=share&utm_medium=member_desktop">Data Hackathon</a>
         <br />
-        <sub>4th Data Science Summit 2024</sub>
+        <sub>4th Data Science Summit 2024 (Dec. 2024)</sub>
         <br />
         <sup>At Daffodil International University</sup>
       </td>
