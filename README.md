@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🏢 Currently working as **Product Engineer** at [Booked For You](https://bookedforyou.com)
+- 🏢 Currently building [Booked For You](https://bookedforyou.com) as a **Product Engineer**.
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
 - 🌱 Currently exploring **Machine Learning and AI**
 - 👯 Open to collaborate on **SaaS Projects**
