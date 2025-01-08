@@ -41,11 +41,18 @@
         <br />
         <strong>Champion</strong>
         <br />
+        <a href="https://www.linkedin.com/posts/imtiazrisat_2025-started-on-a-high-note-my-team-xtradrill-activity-7282052017999532033-iR4M?utm_source=social_share_sheet&utm_medium=member_desktop_web">AI and API Hackathon</a>
+        <br />
+        <sub>KUET BitFest 2025 (Jan. 2025)</sub>
+      </td>
+        <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Champion</strong>
+        <br />
         <a href="https://www.linkedin.com/posts/takitajwar17_what-a-month-it-has-been-we-team-xtradrill-activity-7272690375620804608-qwvb?utm_source=share&utm_medium=member_desktop">Data Hackathon</a>
         <br />
-        <sub>4th Data Science Summit 2024 (Dec. 2024)</sub>
-        <br />
-        <sup>At Daffodil International University</sup>
+        <sub>4th DIU Data Science Summit 2024 (Dec. 2024)</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
@@ -55,8 +62,6 @@
         <a href="https://www.linkedin.com/posts/takitajwar17_yet-another-win-for-my-team-xtradrill-but-activity-7271506810140790785-wEbl?utm_source=share&utm_medium=member_desktop">Dhaka Divisional Hackathon</a>
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
-        <br />
-        <sup>Competed among 75 teams at IUBAT</sup>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
@@ -66,8 +71,6 @@
         <a href="https://www.linkedin.com/posts/takitajwar17_the-last-two-days-have-been-nothing-short-activity-7261294019660439552-nxYA?utm_source=share&utm_medium=member_desktop">Programming Hero National Hackathon</a>
         <br />
         <sub>EWU RoboFest (Nov. 2024)</sub>
-        <br />
-        <sup>Competed among 178 teams at EWU</sup>
       </td>
     </tr>
   </table>
