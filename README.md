@@ -43,7 +43,7 @@
         <br />
         <a href="https://www.linkedin.com/posts/imtiazrisat_2025-started-on-a-high-note-my-team-xtradrill-activity-7282052017999532033-iR4M?utm_source=social_share_sheet&utm_medium=member_desktop_web">AI and API Hackathon</a>
         <br />
-        <sub>KUET BitFest 2025 (Jan. 2025)</sub>
+        <sub>KUET CSE BitFest 2025 (Jan. 2025)</sub>
       </td>
         <td align="center" width="27%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
