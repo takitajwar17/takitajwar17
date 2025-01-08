@@ -34,9 +34,9 @@
 ## 🏆 Recent Achievements
 
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-        <td align="center">
+        <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
@@ -45,7 +45,7 @@
         <br />
         <sub>KUET BitFest 2025 (Jan. 2025)</sub>
       </td>
-        <td align="center">
+        <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
@@ -54,7 +54,7 @@
         <br />
         <sub>4th DIU Data Science Summit 2024 (Dec. 2024)</sub>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
@@ -63,7 +63,7 @@
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
         <br />
         <strong>1st Runner-Up</strong>
