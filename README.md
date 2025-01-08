@@ -36,7 +36,7 @@
 <div align="center">
   <table style="width: 100%;">
     <tr>
-        <td align="center" width="17%">
+        <td align="center" width="18%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
