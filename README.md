@@ -41,9 +41,9 @@
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.facebook.com/share/p/1D3TFaDH8k/">HackNSU Season 5</a>
+        <a href="https://www.facebook.com/share/p/1D3TFaDH8k/">HackNSU 2025</a>
         <br />
-        <sub>NSU ACM SC (Mar. 2025)</sub>
+        <sub>NSU ACM SC - HackNSU Season 5(Mar. 2025)</sub>
       </td>
         <td align="center" width="20%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
