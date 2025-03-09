@@ -36,6 +36,15 @@
 <div align="center">
   <table style="width: 100%;">
     <tr>
+     <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Champion</strong>
+        <br />
+        <a href="https://www.facebook.com/share/p/1D3TFaDH8k/">HackNSU Season 5</a>
+        <br />
+        <sub>NSU ACM SC (Mar. 2025)</sub>
+      </td>
         <td align="center" width="20%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
@@ -62,15 +71,6 @@
         <a href="https://www.linkedin.com/posts/takitajwar17_yet-another-win-for-my-team-xtradrill-but-activity-7271506810140790785-wEbl?utm_source=share&utm_medium=member_desktop">Dhaka Divisional Hackathon</a>
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
-        <br />
-        <strong>1st Runner-Up</strong>
-        <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_the-last-two-days-have-been-nothing-short-activity-7261294019660439552-nxYA?utm_source=share&utm_medium=member_desktop">Programming Hero National Hackathon</a>
-        <br />
-        <sub>EWU RoboFest (Nov. 2024)</sub>
       </td>
     </tr>
   </table>
