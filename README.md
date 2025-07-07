@@ -20,7 +20,7 @@
 - 🚀 Currently collaborating on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
 - 🏢 Former **Product Engineer** at [Booked For You](https://bookedforyou.com).
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
-- 🌱 Currently exploring **Machine Learning and AI**
+- 🌱 Currently exploring **AI Engineering and Ops**
 - 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
   
 </div>
