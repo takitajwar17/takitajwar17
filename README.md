@@ -17,7 +17,8 @@
 
 ### 🚀 About Me
 
-- 🏢 Currently building [Booked For You](https://bookedforyou.com) as a **Product Engineer**.
+- 🚀 Currently collaborating on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
+- 🏢 Former **Product Engineer** at [Booked For You](https://bookedforyou.com).
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
 - 🌱 Currently exploring **Machine Learning and AI**
 - 👯 Open to collaborate on **SaaS Projects**
@@ -31,46 +32,92 @@
 
 </div>
 
+## 💬 What Clients Say
+
+<div align="center">
+  <img src="Screenshot 2025-07-07 132049.png" alt="Client Review" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <br>
+  <sub><i>"Taki, you are godsent. I can wait as long as its needed. Been struggling with this for two weeks now."</i> - Razvan Onisca</sub>
+</div>
+
 ## 🏆 Recent Achievements
 
 <div align="center">
   <table style="width: 100%;">
     <tr>
-     <td align="center" width="25%">
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Best Overall App</strong>
+        <br />
+        <span>Convex Top Chef International</span>
+        <br />
+        <sub>May 2025, USA</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Level up 1st Place</strong>
+        <br />
+        <span>Outlier AI Level Up International</span>
+        <br />
+        <sub>May 2025, USA</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>Global 4th & National Champion</strong>
+        <br />
+        <span>PLEASE Hack - South Asia</span>
+        <br />
+        <sub>Apr. 2025, Sri Lanka</sub>
+      </td>
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.facebook.com/share/p/1D3TFaDH8k/">HackNSU 2025</a>
+        <span>HackNSU 2025</span>
         <br />
         <sub>NSU ACM SC - HackNSU Season 5 (Mar. 2025)</sub>
       </td>
-        <td align="center" width="20%">
+    </tr>
+    <tr>
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/imtiazrisat_2025-started-on-a-high-note-my-team-xtradrill-activity-7282052017999532033-iR4M?utm_source=social_share_sheet&utm_medium=member_desktop_web">AI and API Hackathon</a>
+        <span>AI and API Hackathon</span>
         <br />
         <sub>KUET CSE BitFest 2025 (Jan. 2025)</sub>
       </td>
-        <td align="center" width="27%">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_what-a-month-it-has-been-we-team-xtradrill-activity-7272690375620804608-qwvb?utm_source=share&utm_medium=member_desktop">Data Hackathon</a>
+        <span>Data Hackathon</span>
         <br />
         <sub>4th DIU Data Science Summit 2024 (Dec. 2024)</sub>
       </td>
-      <td align="center" width="23%">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_yet-another-win-for-my-team-xtradrill-but-activity-7271506810140790785-wEbl?utm_source=share&utm_medium=member_desktop">Dhaka Divisional Hackathon</a>
+        <span>Dhaka Divisional Hackathon</span>
         <br />
         <sub>Technocrats V.2 (Dec. 2024)</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br />
+        <strong>1st Runner-Up</strong>
+        <br />
+        <span>Programming Hero National Hackathon</span>
+        <br />
+        <sub>EWU RoboFest (Nov. 2024)</sub>
       </td>
     </tr>
   </table>
