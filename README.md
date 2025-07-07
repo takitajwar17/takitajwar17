@@ -28,15 +28,20 @@
 ## 💬 What Clients Say
 
 <div align="center">
-  <img src="Razvan Onisca Romania.png" alt="Client Review" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  <br>
-  <sub><i>"Taki, you are godsent. I can wait as long as its needed. Been struggling with this for two weeks now."</i> - Razvan Onisca, Romania</sub>
-  
-  <br><br>
-  
-  <img src="Elijah Rienks Canada.png" alt="Client Review" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  <br>
-  <sub><i>"I found it funny that you are one of the only people I messaged and you are up there too, killing it man good job!"</i> - Elijah Rienks, Canada</sub>
+  <table style="width: 100%;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="Razvan Onisca Romania.png" alt="Client Review" width="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+        <br>
+        <sub><i>"Taki, you are godsent. I can wait as long as its needed. Been struggling with this for two weeks now."</i><br><strong>- Razvan Onisca, Romania</strong></sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="Elijah Rienks Canada.png" alt="Client Review" width="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+        <br>
+        <sub><i>"I found it funny that you are one of the only people I messaged and you are up there too, killing it man good job!"</i><br><strong>- Elijah Rienks, Canada</strong></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 Recent Achievements
