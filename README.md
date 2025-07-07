@@ -13,7 +13,7 @@
 </div>
 
 <div style="position: relative;">
-  <img align="right" alt="Coding" width="400" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+  <img align="right" alt="Coding" width="300" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
 ### 🚀 About Me
 
