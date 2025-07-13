@@ -18,6 +18,7 @@
 ### 🚀 About Me
 
 - 🚀 Currently collaborating on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
+- 🏢 **Software Engineer** _(Part-time)_ at [Twelvve](https://apps.apple.com/ro/app/twelvve/id6636473264).
 - 🏢 Former **Product Engineer** at [Booked For You](https://bookedforyou.com).
 - 🔭 Passionate about **Full Stack Development & Cloud Technologies**
 - 🌱 Currently exploring **AI Engineering and Ops**
