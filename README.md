@@ -21,7 +21,7 @@
 - Passionate about **Full Stack Development & Cloud Technologies** & currently exploring **AI Engineering and Ops**
 - I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
-_If you think I died by looking at my recent contributions: I’m active on my [Company GitHub account](https://tinyurl.com/taki-msoldigi-github) (private)_
+_If you think I died by looking at my recent contributions: I’m active on my [Company GitHub account](https://bit.ly/taki-msoldigi-github) (private)_
   
 </div>
 
