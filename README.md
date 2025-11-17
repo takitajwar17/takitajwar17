@@ -20,6 +20,8 @@
 - Former **Product Engineer** at [Booked For You](https://bookedforyou.com).
 - Passionate about **Full Stack Development & Cloud Technologies** & currently exploring **AI Engineering and Ops**
 - I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+
+_If you think I died by looking at my recent contributions: I’m active on my company GitHub account → https://github.com/taki-tajwaruzzaman-khan_
   
 </div>
 
