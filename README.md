@@ -188,10 +188,3 @@ _If you think I died by looking at my recent contributions: I’m active on my [
 
 [![Taki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-  <br>
-  <a href="https://github.com/takitajwar17?tab=repositories">Check out my repositories</a>
-</div>
