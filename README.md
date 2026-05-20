@@ -15,9 +15,8 @@
   <img align="right" alt="Coding" width="300" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
 ### About Me
-- AI Engineer at **[MSOL Digital Co., Ltd.](https://www.msols.com/), Digital Technology Department, DX Division** (Tokyo, Japan)
+- Former Tech Lead, LX Team at **[MSOL Digital Co., Ltd.](https://www.msols.com/), Digital Technology Department, DX Division** (Tokyo, Japan)
 - Collaborated on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
-- Former **Product Engineer** at [Booked For You](https://bookedforyou.com).
 - Passionate about **Full Stack Development & Cloud Technologies** & currently exploring **AI Engineering and Ops**
 - I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
 
