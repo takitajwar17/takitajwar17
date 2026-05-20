@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Taki Tajwaruzzaman Khan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Product+Engineer;Full+Stack+Developer;Software+Engineer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Product+Engineer;Entrepreneurs;Software+Engineer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img align="right" alt="Coding" width="300" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
 ### About Me
-- Founder, @[Klyne Labs, LLC](https://github.com/Klyne-Labs-LLC)
+- Founder, [Klyne Labs, LLC](https://github.com/Klyne-Labs-LLC)
 - Former Tech Lead, LX Team at **[MSOL Digital Co., Ltd.](https://www.msols.com/), Digital Technology Department, DX Division** (Tokyo, Japan)
 - Collaborated on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
 - Passionate about **Full Stack Development & Cloud Technologies** & currently exploring **AI Engineering and Ops**
