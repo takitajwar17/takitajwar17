@@ -42,7 +42,7 @@ I build software products with taste and intention.
 | 2 | **IUBAT Technocrats - Dhaka Divisional Hackathon** (Dec '24, Bangladesh) | 🥇 Champion |
 | 1 | **EWU RoboFest - National Hackathon** (Nov '24, Bangladesh) | 🥈 1st Runner-Up|
 
-## Here are some of my GitHub stats!
+## GitHub Activity
 
 <p align="left">
   <a href="https://github.com/takitajwar17">
