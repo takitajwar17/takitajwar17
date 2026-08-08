@@ -16,7 +16,8 @@ I build software products with taste and intention.
 
 <a href="https://twitter.com/takitajwar17"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> 
 <a href="https://medium.com/@takitajwar17"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> 
-<a href="mailto:anian@klynelabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="mailto:anian@klynelabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://takitajwar.dev/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
 
 ### About Me
