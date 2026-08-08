@@ -31,7 +31,7 @@ I build software products with taste and intention.
 
 ## 🏆 10× Hackathon Winner
 
-| # | Hackathon | Prize |
+| # | Hackathon | Result / Prize |
 | - | --------- | ------ |
 | 10 | **Lovable Shipped Season 01** (Sep '25, Sweden) | 🥇 Builder Grant Winner ($1.5k) |
 | 9 | **Runner H AI Agent Challenge** (Jul '25, USA) | 🥇 Challenge Winner ($500) |
