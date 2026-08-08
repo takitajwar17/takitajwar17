@@ -41,3 +41,13 @@ I build software products with taste and intention.
 | 3 | **DIU Data Science Summit - Data Hackathon** (Dec '24, Bangladesh) | 🥇 Champion |
 | 2 | **IUBAT Technocrats - Dhaka Divisional Hackathon** (Dec '24, Bangladesh) | 🥇 Champion |
 | 1 | **EWU RoboFest - National Hackathon** (Nov '24, Bangladesh) | 🥈 1st Runner-Up|
+
+## Here are some of my GitHub stats!
+
+<p align="left">
+  <a href="https://github.com/takitajwar17">
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=takitajwar17&theme=tokyonight" alt="GitHub Streak Stats">
+  </a>
+  <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=takitajwar17&theme=tokyo-night" alt="GitHub Activity Graph">
+</p>
+
