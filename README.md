@@ -1,128 +1,45 @@
-<h1 align="center">Hi there! I'm Taki Tajwaruzzaman Khan</h1>
+# Hi, I'm Taki 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Entrepreneur;Software+Engineer;Product+Designer" alt="Typing SVG"/>
-</div>
+📍 **Dhaka, Bangladesh** · **Founder @ Klyne Labs, LLC** · **Former Tech Lead, MSOL Digital (Tokyo, Japan)**
 
-<div align="center">
-  <a href="https://twitter.com/takitajwar17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://medium.com/@takitajwar17"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:anian@klynelabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-FF4F00?style=flat-square&logo=convex&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div style="position: relative;">
-  <img align="right" alt="Coding" width="300" style="position: absolute; right: 0; top: 0; z-index: 999;" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+I build software products with taste and intention.
+
+<a href="https://twitter.com/takitajwar17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@takitajwar17"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:anian@klynelabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=takitajwar17&style=for-the-badge&color=6F9EE8" alt="Profile Views"/>
 
 ### About Me
+
 - Founder, [Klyne Labs, LLC](https://github.com/Klyne-Labs-LLC)
 - I've written software trusted by Toyota, Hitachi, Fujitsu, Mitsubishi, the United Nations, and more
-- Former Tech Lead, LX Team at **[MSOL Digital Co., Ltd.](https://www.msols.com/), Digital Technology Department, DX Division** (Tokyo, Japan)
-- Collaborated on **SaaS & AI applications** with **30+ projects** experience across diverse domains.
-- I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+- Former Tech Lead, LX Team at [MSOL Digital Co., Ltd.](https://www.msols.com/) — DX Division, Tokyo, Japan
+- Worked across 30+ software projects spanning SaaS, AI, and other domains
+- I sometimes write on [Medium](https://medium.com/@takitajwar17)
 
-</div>
+## 🏆 10× Hackathon Winner
 
-<br>
-
-## What Clients Say
-
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center" width="50%">
-        <img src="Razvan Onisca Romania.png" alt="Client Review" width="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-        <br>
-        <sub><i>"Taki, you are godsent. I can wait as long as its needed. Been struggling with this for two weeks now."</i><br><strong>- Razvan Onisca, Romania</strong></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="Elijah Rienks Canada.png" alt="Client Review" width="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-        <br>
-        <sub><i>"I found it funny that you are one of the only people I messaged and you are up there too, killing it man good job!"</i><br><strong>- Elijah Rienks, Canada</strong></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## Recent Achievements
-
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Best Overall App</strong>
-        <br />
-        <span>Convex Top Chef International</span>
-        <br />
-        <sub>May 2025, USA</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Level up 1st Place</strong>
-        <br />
-        <span>Outlier AI Level Up International</span>
-        <br />
-        <sub>May 2025, USA</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Global 4th & National Champion</strong>
-        <br />
-        <span>PLEASE Hack - South Asia</span>
-        <br />
-        <sub>Apr. 2025, Sri Lanka</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Champion</strong>
-        <br />
-        <span>HackNSU 2025</span>
-        <br />
-        <sub>NSU ACM SC - HackNSU Season 5 (Mar. 2025)</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Champion</strong>
-        <br />
-        <span>AI and API Hackathon</span>
-        <br />
-        <sub>KUET CSE BitFest 2025 (Jan. 2025)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Champion</strong>
-        <br />
-        <span>Data Hackathon</span>
-        <br />
-        <sub>4th DIU Data Science Summit 2024 (Dec. 2024)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Champion</strong>
-        <br />
-        <span>Dhaka Divisional Hackathon</span>
-        <br />
-        <sub>Technocrats V.2 (Dec. 2024)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>1st Runner-Up</strong>
-        <br />
-        <span>Programming Hero National Hackathon</span>
-        <br />
-        <sub>EWU RoboFest (Nov. 2024)</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+| # | Hackathon | Prize |
+| - | --------- | ------ |
+| 10 | **Lovable Shipped Season 01** (Sep '25, Sweden) | 🥇 Builder Grant Winner ($1.5k) |
+| 9 | **Runner H AI Agent Challenge** (Jul '25, USA) | 🥇 Challenge Winner ($500) |
+| 8 | **Convex Top Chef International Hackathon** (May '25, USA) | 🥇 Best Overall App ($2.5k) |
+| 7 | **Outlier AI Level Up Hackathon** (May '25, USA) | 🥇 1st Place ($2k) |
+| 6 | **PLEASE Hack — South Asia** (Apr '25, Sri Lanka) | 🥇 National Champion + Global 4th ($2k) |
+| 5 | **HackNSU 2025** (Mar '25, Bangladesh) | 🥇 Champion |
+| 4 | **KUET CSE BitFest - AI & API Hackathon** (Jan '25, Bangladesh) | 🥇 Champion |
+| 3 | **DIU Data Science Summit - Data Hackathon** (Dec '24, Bangladesh) | 🥇 Champion |
+| 2 | **IUBAT Technocrats - Dhaka Divisional Hackathon** (Dec '24, Bangladesh) | 🥇 Champion |
+| 1 | **EWU RoboFest - National Hackathon** (Nov '24, Bangladesh) | 🥈 1st Runner-Up|
