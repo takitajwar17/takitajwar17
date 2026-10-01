@@ -24,7 +24,7 @@ I build software products with taste and intention.
 
 - Founder, [Klyne Labs, LLC](https://github.com/Klyne-Labs-LLC)
 - I've written software trusted by Toyota, Hitachi, Fujitsu, Mitsubishi, the United Nations, and more
-- Former Tech Lead, LX Team at [MSOL Digital Co., Ltd.](https://www.msols.com/) — DX Division, Tokyo, Japan
+- Former Tech Lead, LX Team at [MSOL Digital Co., Ltd.](https://www.msols.com/), DX Division, Tokyo, Japan
 - Worked across 30+ software projects spanning SaaS, AI, and other domains
 - I sometimes write on [Medium](https://medium.com/@takitajwar17)
 
